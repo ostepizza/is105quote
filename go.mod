@@ -1,4 +1,4 @@
-module github.com/ostepizza/is105quote/myquote
+module github.com/ostepizza/is105quote/tree/main/myquote
 
 go 1.13
 
